@@ -1,4 +1,6 @@
 @echo off
+title Sad Romance
+color e
 echo hi! if you like it, please like and subscribe!
 pause
 echo if you want to listen, please like!
